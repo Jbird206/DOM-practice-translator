@@ -1,0 +1,32 @@
+#panel1, #flip1 {
+  padding: 5px;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#panel1 {
+  padding: 5px;
+  display: none;
+}
+
+#panel2, #flip2 {
+  padding: 5px;
+  background-color: bisque;
+  border: solid 1px #c3c3c3;
+}
+
+#panel2{
+  padding: 5px;
+  display: none;
+}
+
+#panel3, #flip3 {
+  padding: 5px;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#panel3 {
+  padding: 5px;
+  display: none;
+}
